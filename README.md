@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Prudhvi Reddy 🧑‍💻.
+### Hi there 👋, I'm Shubham Raj 🧑‍💻.
 
 ###### A Software Developer 🚀 with experience of building Web 🕸️ and Mobile 📱 applications. I Figure out things, Solve some problems and I can read documentation and errors correctly to build scalable, testable, efficient and maintainable products. 
 
@@ -7,7 +7,7 @@
 
 * Contributing to [@Aossie](https://gitlab.com/aossie) Open Source Organisation.
 
-* Non-Tech time goes in to Running 🏃‍♂️ , Food 🍜, Travel 🌏 ....
+* Non-Tech time goes in to Music :musical_note: , Food 🍜, Travel 🌏 ....
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shubhamofbce/)
