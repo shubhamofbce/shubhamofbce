@@ -13,3 +13,5 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shubhamofbce/)
 [![Codechef](https://img.shields.io/badge/Codechef%20(4%20Stars)-blueviolet.svg?style=for-the-badge&logo=codechef)](https://www.codechef.com/users/shubh17cs)
 [![HackerEarth](https://img.shields.io/badge/HackerEarth-success.svg?style=for-the-badge&logo=hackerearth)](https://www.hackerearth.com/@shubhamofbce)
+
+![Shubham's github stats](￼https://github-readme-stats.vercel.app/api?username=shubhamofbce&show_icons=true&hide_border=true)
