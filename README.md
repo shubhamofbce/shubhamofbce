@@ -3,9 +3,9 @@
 ###### A Software Developer 🚀 with experience of building Web 🕸️ and Mobile 📱 applications. I Figure out things, Solve some problems and I can read documentation and errors correctly to build scalable, testable, efficient and maintainable products. 
 
 
-* Built Products for [@Anywhr](https://anywhr.co/) as Software Development Engineer. 
+* Built Products for [@Anywhr](https://anywhr.co/) and [@GSI, CA] as Software Development Engineer. 
 
-* Contributing to [@Aossie](https://gitlab.com/aossie) Open Source Organisation.
+* Contributing to [@Aossie](https://gitlab.com/aossie) and [@Stackinflow](https://github.com/stackinflow/node-rest-api-starter) Open Source Organisation.
 
 * Non-Tech time goes in to Music :musical_note: , Food 🍜, Travel 🌏 ....
 
