@@ -3,7 +3,9 @@
 ###### A Software Developer 🚀 with experience of building Web 🕸️ and Mobile 📱 applications. I Figure out things, Solve some problems and I can read documentation and errors correctly to build scalable, testable, efficient and maintainable products. 
 
 
-* Building scalable and cuttinge-edge systems [@Uniqode](https://uniqode.com/) and [@GSI, CA]() as Software Development Engineer. 
+* Building scalable and cuttinge-edge systems [@Uniqode](https://uniqode.com/).
+
+* Built [theaivideogenerator.com](https://theaivideogenerator.com) from scratch(closed now).
 
 * Contributing to [@Gradio](https://github.com/gradio-app/) [@Aossie](https://gitlab.com/aossie) and [@Stackinflow](https://github.com/stackinflow/node-rest-api-starter) Open Source Organisation.
 
