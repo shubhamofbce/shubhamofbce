@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Shubham Raj 🧑‍💻.
 
-###### A Software Developer 🚀 with experience of building Web 🕸️ and Mobile 📱 applications. I Figure out things, Solve some problems and I can read documentation and errors correctly to build scalable, testable, efficient and maintainable products. 
+###### A Software Developer 🚀 with experience of building scalable backend systems and applications. I am also in love with GenAI and keep on exploring stuffs related to that. I am always open to build something crazy, feel free to reach out if you have an idea.
 
 
 * Building scalable and cuttinge-edge systems [@Uniqode](https://uniqode.com/).
