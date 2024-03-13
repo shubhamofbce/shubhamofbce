@@ -12,5 +12,5 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shubhamofbce/)
 [![Codechef](https://img.shields.io/badge/Codechef%20(4%20Stars)-blueviolet.svg?style=for-the-badge&logo=codechef)](https://www.codechef.com/users/shubh17cs)
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/:Shubham_hin)
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/shubham_hin)
 
